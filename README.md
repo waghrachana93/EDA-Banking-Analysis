@@ -96,14 +96,14 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 **Strong correlations between deposits, checking, and savings accounts highlight active financial engagement among customers.**
 
 
-### 📊 Distribution of Financial Variables
+### 📊 Bank Deposit,Checking Accounts and Savings Account Distribution
 
-
-[Numerical Analysis](https://github.com/user-attachments/assets/e85d080b-43a6-4e58-bb16-219cf27f9a8c)
-
+![Bank Deposit,Checking Accounts and Savings Account Distribution](https://github.com/user-attachments/assets/fdf1db5d-147e-41df-9c59-e2e69bbdcba6)
 
 **Insight:**
-**Most financial variables are right-skewed, with a small group of customers holding significantly higher balances.**
+**All three account types show right-skewed distributions, where most customers maintain lower balances while a small segment holds significantly higher amounts.**
+
+
 
 
 
