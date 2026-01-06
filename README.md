@@ -78,6 +78,34 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 **Superannuation savings show a weak relationship with age, indicating that factors beyond age significantly influence retirement savings.**
 
 
+### 📊 Risk Weighting Distribution
+
+![Risk Weighting](https://github.com/user-attachments/assets/a633bd46-7862-49e6-b36d-c8211608e4bd)
+
+
+**Insight:**  
+**Customer distribution is concentrated in lower risk categories, indicating a relatively stable banking portfolio.**
+
+
+### 📊 Correlation Matrix
+
+![Correlation matrix](https://github.com/user-attachments/assets/71436f66-b17a-477c-9003-889e12f8b4f3)
+
+
+**Insight:**
+**Strong correlations between deposits, checking, and savings accounts highlight active financial engagement among customers.**
+
+
+### 📊 Distribution of Financial Variables
+
+
+[Numerical Analysis](https://github.com/user-attachments/assets/e85d080b-43a6-4e58-bb16-219cf27f9a8c)
+
+
+**Insight:**
+**Most financial variables are right-skewed, with a small group of customers holding significantly higher balances.**
+
+
 
 
 
