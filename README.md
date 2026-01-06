@@ -56,6 +56,13 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 5. **Retirement Drawdown**  
 
 ---
+### 📊 Income Band Based on Nationality
+
+![Income Band Based on Nationality](https://github.com/user-attachments/assets/e0127b2b-7dc0-41fc-bc62-c4da98cec2fb)
+
+**Insight:**  
+The medium income band dominates across nationalities, indicating a strong middle-income customer base.
+
 
 
 
