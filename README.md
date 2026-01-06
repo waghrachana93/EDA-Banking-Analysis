@@ -61,7 +61,17 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 ![Income Band Based on Nationality](https://github.com/user-attachments/assets/e0127b2b-7dc0-41fc-bc62-c4da98cec2fb)
 
 **Insight:**  
-The medium income band dominates across nationalities, indicating a strong middle-income customer base.
+**The medium income band dominates across nationalities, indicating a strong middle-income customer base.**
+
+###📊 **Relationship between Bank Deposits and Saving Accounts**
+
+(https://github.com/user-attachments/assets/e102e844-394f-472d-b0bb-1d0540b7d791)
+
+**Insight:**  
+**Customers with higher bank deposits tend to maintain higher savings balances, reflecting consistent saving behavior.**
+
+
+
 
 
 
