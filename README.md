@@ -63,12 +63,21 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 **Insight:**  
 **The medium income band dominates across nationalities, indicating a strong middle-income customer base.**
 
-###📊 **Relationship between Bank Deposits and Saving Accounts**
+### 📊 Relationship between Bank Deposits and Saving Accounts
 
-(https://github.com/user-attachments/assets/e102e844-394f-472d-b0bb-1d0540b7d791)
+![Deposits vs Savings](https://github.com/user-attachments/assets/e102e844-394f-472d-b0bb-1d0540b7d791)
 
 **Insight:**  
 **Customers with higher bank deposits tend to maintain higher savings balances, reflecting consistent saving behavior.**
+
+### 📊 Relationship between Age and Superannuation Savings
+
+![Age vs Superannuation Savings](https://github.com/user-attachments/assets/d8c4c13d-9c48-4129-b8bc-0fe0445a3185)
+
+**Insight:**  
+**Superannuation savings show a weak relationship with age, indicating that factors beyond age significantly influence retirement savings.**
+
+
 
 
 
