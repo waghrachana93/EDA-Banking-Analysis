@@ -57,11 +57,7 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 
 ---
 
-## 📈 Power BI Dashboards
-Interactive dashboards provide additional perspectives:
-- **Categorical distributions** (Nationality, Occupation, Fee Structure, Loyalty)  
-- **Numerical trends** (Income, Deposits, Savings, Loans)  
-- **Correlation visuals** for liquidity and lending behaviors  
+
 
 
 
