@@ -9,8 +9,7 @@ The goal is to demonstrate both **technical skills** (data wrangling, visualizat
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Power BI**: Interactive dashboards for categorical and numerical insights  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn   
 - **GitHub**: Documentation and portfolio presentation  
 
 ---
