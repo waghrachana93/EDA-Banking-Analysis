@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project presents a comprehensive **Exploratory Data Analysis (EDA)** of financial and demographic data.  
-It combines **Python (Jupyter Notebook)**, **Power BI dashboards**, and a polished **PDF report** to uncover trends in income, savings, loans, risk profiles, and customer behavior.  
+It combines **Python (Jupyter Notebook)** and a polished **PDF report** to uncover trends in income, savings, loans, risk profiles, and customer behavior.  
 
 The goal is to demonstrate both **technical skills** (data wrangling, visualization, correlation analysis) and **business insights** (financial lifecycle, customer segmentation).
 
